@@ -144,3 +144,30 @@ aside{
     
 }
 
+footer{
+    background-color: black;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.footer1{
+    padding: 1em;
+    background-color: rgb(26, 216, 137);
+    height: 15px;
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.logo2, .bottone2 {
+    border: 1px dashed black ;
+    height: 1.5em;
+    width: 4em;
+    background-color: pink;
+    text-align: center;
+}
