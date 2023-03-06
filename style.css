@@ -111,3 +111,16 @@ aside{
     height: 90%;
     background-color: green;
 }
+
+.contnero{
+    background-color: black;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.controsso{
+    background-color: brown;
+}
