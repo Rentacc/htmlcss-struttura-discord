@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+header {
+    height: 90px;
+    background-color: cyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1em;
+}
+
+nav {
+    padding: 1em;
+    background-color: goldenrod;
+    height: 15px;
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 3px dashed black ;
+
+}
+
+.contblu{
+    height: 500px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.controsa{
+    height: 70%;
+    width: 40%;
+    background-color: palevioletred;
+    border: 3px dashed black 
+}
+
+.contbianco{
+    height: 500px;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+}
+
+
+.contazzurro{
+    background-color: rgb(0, 119, 255);
+    flex: 0 1 70%;
+}
+
+aside{
+    background-color: pink;
+
+}
+
+.contazzurro, aside{
+    height: 80%;
+    width: 40%;
+    
+    border: 3px dashed black;
+   
+
+}
+
+.contgrigio{
+    height: 500px;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+}
+.contazzurro2{
+    background-color: rgb(0, 119, 255);
+    
+}
+
+#aside2{
+    background-color: pink;
+    flex: 0 1 70%;
+
+}
+
+.contazzurro2, #aside2{
+    height: 80%;
+    width: 40%;
+    
+    border: 3px dashed black;
+   
+
+}
